@@ -1,0 +1,17 @@
+.carousel-caption h5{
+    font-size: 80px;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px rgb(44, 44, 44);
+}
+
+p{font-size: 20px;
+    color: rgb(34, 23, 133);
+    text-align: center;
+
+}
+
+h2{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
